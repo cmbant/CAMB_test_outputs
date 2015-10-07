@@ -1,4 +1,4 @@
-# CAM _test outputs
+# CAMB test outputs
 
 This repository stores expected and test run outputs for CAMB unit tests.
 
