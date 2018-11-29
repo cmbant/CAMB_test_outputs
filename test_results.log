@@ -1,0 +1,625 @@
+Making test ini files...
+Made test ini files.
+params_base.ini...
+..OK, produced 4 files in 3.47s
+params_lmax1000.ini...
+..OK, produced 4 files in 2.26s
+params_lmax2000.ini...
+..OK, produced 4 files in 3.15s
+params_lmax2500.ini...
+..OK, produced 4 files in 3.73s
+params_lmax3000.ini...
+..OK, produced 4 files in 3.72s
+params_lmax4500.ini...
+..OK, produced 4 files in 4.22s
+params_lmax6000.ini...
+..OK, produced 4 files in 5.49s
+params_nonlin_lmax1000.ini...
+..OK, produced 6 files in 2.78s
+params_nonlin_lmax2000.ini...
+..OK, produced 6 files in 3.68s
+params_nonlin_lmax2500.ini...
+..OK, produced 6 files in 3.93s
+params_nonlin_lmax3000.ini...
+..OK, produced 6 files in 3.98s
+params_nonlin_lmax4500.ini...
+..OK, produced 6 files in 4.48s
+params_tensor_lmax400.ini...
+..OK, produced 7 files in 4.15s
+params_tensor_lmax600.ini...
+..OK, produced 7 files in 4.28s
+params_tensor_lmax1000.ini...
+..OK, produced 7 files in 4.43s
+params_tensoronly.ini...
+..OK, produced 1 files in 1.34s
+params_tensor_tranfer.ini...
+..OK, produced 3 files in 4.18s
+params_tranfer_only.ini...
+..OK, produced 2 files in 1.78s
+params_tranfer_highprec.ini...
+..OK, produced 2 files in 2.91s
+params_all.ini...
+..OK, produced 9 files in 4.77s
+params_all_nonlin1.ini...
+..OK, produced 9 files in 4.72s
+params_all_nonlin2.ini...
+..OK, produced 9 files in 5.11s
+params_all_nonlinhigh.ini...
+..OK, produced 9 files in 5.46s
+params_tranfer_delta10.ini...
+..OK, produced 2 files in 2.05s
+params_tranfer_redshifts.ini...
+..OK, produced 4 files in 1.52s
+params_tranfer_redshifts2.ini...
+..OK, produced 4 files in 1.81s
+params_tranfer_nonu.ini...
+..OK, produced 2 files in 1.85s
+params_HMcode.ini...
+..OK, produced 6 files in 6.08s
+params_halomodel.ini...
+..OK, produced 6 files in 6.00s
+params_zre.ini...
+..OK, produced 4 files in 3.39s
+params_nolens.ini...
+..OK, produced 4 files in 3.36s
+params_noderived.ini...
+..OK, produced 4 files in 3.35s
+params_no_rad_trunc.ini...
+..OK, produced 4 files in 3.59s
+params_accuracy_boost1.1.ini...
+..OK, produced 4 files in 4.11s
+params_accuracy_boost1.5.ini...
+..OK, produced 4 files in 5.92s
+params_accuracy_boost2.2.ini...
+..OK, produced 4 files in 10.80s
+params_l_accuracy_boost1.ini...
+..OK, produced 4 files in 3.39s
+params_l_accuracy_boost1.5.ini...
+..OK, produced 4 files in 4.00s
+params_l_accuracy_boost2.ini...
+..OK, produced 4 files in 3.87s
+params_acc.ini...
+..OK, produced 4 files in 9.93s
+params_accsamp.ini...
+..OK, produced 4 files in 10.48s
+params_mu_massless.ini...
+..OK, produced 4 files in 1.96s
+params_mu_mass0.ini...
+..OK, produced 4 files in 1.82s
+params_mu_mass0.01.ini...
+..OK, produced 4 files in 3.60s
+params_mu_mass0.03.ini...
+..OK, produced 4 files in 3.41s
+params_mu_mass0.1.ini...
+..OK, produced 4 files in 3.39s
+params_mu_masssplit.ini...
+..OK, produced 4 files in 3.90s
+params_acclens_ketamax10000.ini...
+..OK, produced 4 files in 6.37s
+params_acclens_ketamax14000.ini...
+..OK, produced 4 files in 5.80s
+params_acclens_ketamax20000.ini...
+..OK, produced 4 files in 5.94s
+params_acclens_ketamax40000.ini...
+..OK, produced 4 files in 6.86s
+params_acclensBB_ketamax10000.ini...
+..OK, produced 4 files in 5.36s
+params_acclensBB_ketamax14000.ini...
+..OK, produced 4 files in 5.48s
+params_acclensBB_ketamax20000.ini...
+..OK, produced 4 files in 5.80s
+params_acclensBB_ketamax40000.ini...
+..OK, produced 4 files in 6.23s
+params_ombh2_0.022.ini...
+..OK, produced 6 files in 3.87s
+params_ombh2_0.023.ini...
+..OK, produced 6 files in 3.89s
+params_ombh2_0.025.ini...
+..OK, produced 6 files in 4.02s
+params_omch2_0.100.ini...
+..OK, produced 6 files in 3.90s
+params_omch2_0.080.ini...
+..OK, produced 6 files in 4.27s
+params_omch2_0.150.ini...
+..OK, produced 6 files in 3.67s
+params_omk_0.000.ini...
+..OK, produced 6 files in 3.86s
+params_omk_-0.030.ini...
+..OK, produced 6 files in 23.17s
+params_omk_0.040.ini...
+..OK, produced 6 files in 23.55s
+params_omk_0.001.ini...
+..OK, produced 6 files in 24.61s
+params_omk_-0.001.ini...
+..OK, produced 6 files in 18.90s
+params_hubble_62.000.ini...
+..OK, produced 6 files in 3.84s
+params_hubble_67.000.ini...
+..OK, produced 6 files in 3.90s
+params_hubble_71.000.ini...
+..OK, produced 6 files in 3.93s
+params_hubble_78.000.ini...
+..OK, produced 6 files in 3.87s
+params_w_-1.200.ini...
+..OK, produced 6 files in 4.61s
+params_w_-1.000.ini...
+..OK, produced 6 files in 3.89s
+params_w_-0.980.ini...
+..OK, produced 6 files in 4.66s
+params_w_-0.750.ini...
+..OK, produced 6 files in 4.45s
+params_helium_fraction_0.210.ini...
+..OK, produced 6 files in 3.94s
+params_helium_fraction_0.230.ini...
+..OK, produced 6 files in 3.90s
+params_helium_fraction_0.270.ini...
+..OK, produced 6 files in 3.88s
+params_scalar_spectral_index(1)_0.940.ini...
+..OK, produced 6 files in 3.84s
+params_scalar_spectral_index(1)_0.980.ini...
+..OK, produced 6 files in 3.89s
+params_scalar_nrun(1)_-0.015.ini...
+..OK, produced 6 files in 3.93s
+params_scalar_nrun(1)_0.000.ini...
+..OK, produced 6 files in 4.29s
+params_scalar_nrun(1)_0.030.ini...
+..OK, produced 6 files in 4.09s
+params_re_optical_depth_0.030.ini...
+..OK, produced 6 files in 3.88s
+params_re_optical_depth_0.050.ini...
+..OK, produced 6 files in 3.87s
+params_re_optical_depth_0.080.ini...
+..OK, produced 6 files in 3.89s
+params_re_optical_depth_0.110.ini...
+..OK, produced 6 files in 3.94s
+params_ppf_w-1.2_wa-0.3.ini...
+..OK, produced 6 files in 4.96s
+params_ppf_w-0.998_wa-0.3.ini...
+..OK, produced 6 files in 5.02s
+params_ppf_w-0.7_wa-0.3.ini...
+..OK, produced 6 files in 4.94s
+params_ppf_w-1.2_wa-0.01.ini...
+..OK, produced 6 files in 4.99s
+params_ppf_w-0.998_wa-0.01.ini...
+..OK, produced 6 files in 4.99s
+params_ppf_w-0.7_wa-0.01.ini...
+..OK, produced 6 files in 4.81s
+params_ppf_w-1.2_wa0.5.ini...
+..OK, produced 6 files in 4.96s
+params_ppf_w-0.998_wa0.5.ini...
+..OK, produced 6 files in 5.00s
+params_ppf_w-0.7_wa0.5.ini...
+..OK, produced 6 files in 4.99s
+params_ppf_w-1.000_wa0.000.ini...
+..OK, produced 6 files in 3.92s
+params_delta_xe.ini...
+..OK, produced 6 files in 8.02s
+params_counts_opts_T_T_T_T.ini...
+..OK, produced 4 files in 8.64s
+params_counts_opts_T_T_T_F.ini...
+..OK, produced 4 files in 4.78s
+params_counts_opts_T_T_F_T.ini...
+..OK, produced 4 files in 8.76s
+params_counts_opts_T_T_F_F.ini...
+..OK, produced 4 files in 4.81s
+params_counts_opts_T_F_T_T.ini...
+..OK, produced 4 files in 8.75s
+params_counts_opts_T_F_T_F.ini...
+..OK, produced 4 files in 4.78s
+params_counts_opts_T_F_F_T.ini...
+..OK, produced 4 files in 8.49s
+params_counts_opts_T_F_F_F.ini...
+..OK, produced 4 files in 4.69s
+params_counts_opts_F_T_T_T.ini...
+..OK, produced 4 files in 8.72s
+params_counts_opts_F_T_T_F.ini...
+..OK, produced 4 files in 4.84s
+params_counts_opts_F_T_F_T.ini...
+..OK, produced 4 files in 8.70s
+params_counts_opts_F_T_F_F.ini...
+..OK, produced 4 files in 5.05s
+params_counts_opts_F_F_T_T.ini...
+..OK, produced 4 files in 8.57s
+params_counts_opts_F_F_T_F.ini...
+..OK, produced 4 files in 4.70s
+params_counts_opts_F_F_F_T.ini...
+..OK, produced 4 files in 8.58s
+params_counts_opts_F_F_F_F.ini...
+..OK, produced 4 files in 4.63s
+params_counts_1bin.ini...
+..OK, produced 4 files in 6.11s
+params_counts_lmax1.ini...
+..OK, produced 4 files in 4.31s
+params_counts_lmax2.ini...
+..OK, produced 4 files in 5.19s
+params_counts_overlap.ini...
+..OK, produced 4 files in 5.67s
+params_lensing_base.ini...
+..OK, produced 4 files in 48.91s
+params_21cm_base.ini...
+..OK, produced 4 files in 34.90s
+params_21cm_base2.ini...
+..OK, produced 7 files in 51.74s
+params_counts_lens.ini...
+..OK, produced 4 files in 8.73s
+Done, 0 errors in 767.36s (outputs not checked yet)
+Running diff_to...
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302347 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax40000_lensedCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax20000_lenspotentialCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_F_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax40000_lenspotentialCls.dat: 3.3817 != 3.40549
+num rows do not match in params_ppf_w-0.998_wa-0.3_transfer_out.dat: 197 != 198
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_F_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_F_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_T_T_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax14000_lenspotentialCls.dat: 3.3817 != 3.4055
+num rows do not match in params_delta_xe_matterpower.dat: 549 != 560
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_T_F_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_T_T_F_scalCovCls.dat: 3.4563 != 3.42336
+num rows do not match in params_ppf_w-1.2_wa-0.01_transfer_out.dat: 196 != 197
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax20000_lenspotentialCls.dat: 3.3817 != 3.40549
+num rows do not match in params_nonlin_lmax2500_matterpower.dat: 556 != 572
+num rows do not match in params_nonlin_lmax2000_transfer_out.dat: 190 != 191
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_nonlin_lmax3000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclensBB_ketamax10000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_F_F_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax14000_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclens_ketamax14000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_F_F_T_scalCovCls.dat: 3.4563 != 3.42336
+num rows do not match in params_nonlin_lmax4500_matterpower.dat: 556 != 572
+num rows do not match in params_ppf_w-1.2_wa-0.3_matterpower.dat: 556 != 572
+num rows do not match in params_ppf_w-0.7_wa-0.3_transfer_out.dat: 198 != 199
+num rows do not match in params_ppf_w-0.998_wa-0.01_matterpower.dat: 556 != 572
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.2 * 0.054882) = 0.00302461 > 0.003
+value mismatch at 1, 5 ("TxE") of params_delta_xe_lensedCls.dat: 3.3817 != 3.4055
+num rows do not match in params_ppf_w-0.7_wa-0.01_transfer_out.dat: 199 != 200
+num rows do not match in params_nonlin_lmax2000_matterpower.dat: 556 != 572
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_F_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclens_ketamax10000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_F_F_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302347 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax20000_lensedCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax3000_lensedCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.40517 - 3.3807|/sqrt(1128 * 0.054891) = 0.00310977 > 0.003
+value mismatch at 1, 3 ("TxE") of params_ppf_w-0.998_wa-0.01_scalCovCls.dat: 3.3807 != 3.40517
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.2 * 0.054881) = 0.00302463 > 0.003
+value mismatch at 1, 3 ("TxE") of params_delta_xe_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_nonlin_lmax2500_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42342 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00416398 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_lmax2_lensedCls.dat: 3.4563 != 3.42342
+diffnsqrt: |3.40553 - 3.3817|/sqrt(1128.2 * 0.054881) = 0.00302845 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax4500_lenspotentialCls.dat: 3.3817 != 3.40553
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax2000_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.2 * 0.054881) = 0.00302463 > 0.003
+value mismatch at 1, 5 ("TxE") of params_delta_xe_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_F_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_T_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_T_F_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_F_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax40000_lenspotentialCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302347 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax40000_lensedCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_all_nonlin2_lensedCls.dat: 3.3817 != 3.4055
+num rows do not match in params_ppf_w-0.7_wa0.5_transfer_out.dat: 204 != 205
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_F_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_F_F_lensedCls.dat: 3.4563 != 3.42336
+num rows do not match in params_delta_xe_transfer_out.dat: 201 != 202
+num rows do not match in params_all_nonlin2_transfer_out.dat: 197 != 198
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax10000_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.40517 - 3.3807|/sqrt(1128 * 0.054891) = 0.00310977 > 0.003
+value mismatch at 1, 5 ("TxE") of params_ppf_w-0.998_wa-0.01_lenspotentialCls.dat: 3.3807 != 3.40517
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclens_ketamax40000_scalCovCls.dat: 3.3817 != 3.40549
+num rows do not match in params_nonlin_lmax4500_transfer_out.dat: 211 != 212
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_nonlin_lmax2000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_T_T_T_scalCovCls.dat: 3.4563 != 3.42336
+num rows do not match in params_all_nonlinhigh_matterpower.dat: 549 != 560
+normabs: |1135.1 - 1131.04| / |1135.1| = 0.00357678 > 0.003
+value mismatch at 1, 2 ("TxT") of params_counts_overlap_scalCovCls.dat: 1135.1 != 1131.04
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax2500_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_F_T_T_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_T_T_T_scalCovCls.dat: 3.4563 != 3.42336
+normabs: |1135.1 - 1131.04| / |1135.1| = 0.00357678 > 0.003
+value mismatch at 1, 2 ("TxT") of params_counts_overlap_lensedCls.dat: 1135.1 != 1131.04
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_all_nonlin2_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_F_F_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_F_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax1000_lensedCls.dat: 3.3817 != 3.4055
+normabs: |1135.1 - 1131.04| / |1135.1| = 0.00357678 > 0.003
+value mismatch at 1, 2 ("TxT") of params_counts_overlap_lenspotentialCls.dat: 1135.1 != 1131.04
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_T_T_lensedCls.dat: 3.4563 != 3.42336
+num rows do not match in params_all_nonlin2_matterpower.dat: 556 != 572
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_F_F_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_F_T_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.05488) = 0.0030248 > 0.003
+value mismatch at 1, 3 ("TxE") of params_nonlin_lmax1000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_F_F_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_F_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax2500_lensedCls.dat: 3.3817 != 3.4055
+num rows do not match in params_all_nonlinhigh_transfer_out.dat: 201 != 202
+num rows do not match in params_ppf_w-1.2_wa0.5_transfer_out.dat: 197 != 198
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_F_T_F_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax1000_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_F_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40553 - 3.3817|/sqrt(1128.2 * 0.054882) = 0.00302842 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax4500_lensedCls.dat: 3.3817 != 3.40553
+num rows do not match in params_nonlin_lmax2500_transfer_out.dat: 206 != 207
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_T_F_T_scalCovCls.dat: 3.4563 != 3.42336
+num rows do not match in params_ppf_w-0.998_wa0.5_matterpower.dat: 556 != 572
+diffnsqrt: |3.40553 - 3.3817|/sqrt(1128.2 * 0.05488) = 0.00302847 > 0.003
+value mismatch at 1, 3 ("TxE") of params_nonlin_lmax4500_scalCovCls.dat: 3.3817 != 3.40553
+diffnsqrt: |3.42342 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00416406 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_lmax2_scalCovCls.dat: 3.4563 != 3.42342
+num rows do not match in params_ppf_w-0.998_wa-0.01_transfer_out.dat: 197 != 198
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_T_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_F_F_T_scalCovCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_F_F_T_T_scalCovCls.dat: 3.4563 != 3.42336
+num rows do not match in params_ppf_w-0.7_wa-0.01_matterpower.dat: 556 != 572
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_T_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_T_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax2000_lensedCls.dat: 3.3817 != 3.4055
+num rows do not match in params_ppf_w-0.998_wa0.5_transfer_out.dat: 198 != 199
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_F_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_nonlin_lmax3000_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_T_F_lensedCls.dat: 3.4563 != 3.42336
+num rows do not match in params_nonlin_lmax1000_matterpower.dat: 556 != 572
+num rows do not match in params_ppf_w-1.2_wa-0.3_transfer_out.dat: 195 != 196
+num rows do not match in params_ppf_w-1.2_wa0.5_matterpower.dat: 556 != 572
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclensBB_ketamax40000_scalCovCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_T_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_F_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.2 * 0.054881) = 0.00302463 > 0.003
+value mismatch at 1, 3 ("TxE") of params_all_nonlinhigh_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax10000_lensedCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_T_F_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40517 - 3.3807|/sqrt(1128 * 0.054892) = 0.00310975 > 0.003
+value mismatch at 1, 5 ("TxE") of params_ppf_w-0.998_wa-0.01_lensedCls.dat: 3.3807 != 3.40517
+num rows do not match in params_nonlin_lmax3000_transfer_out.dat: 207 != 208
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_T_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclensBB_ketamax20000_scalCovCls.dat: 3.3817 != 3.40549
+num rows do not match in params_ppf_w-0.7_wa0.5_matterpower.dat: 556 != 572
+num rows do not match in params_nonlin_lmax1000_transfer_out.dat: 152 != 153
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclensBB_ketamax14000_scalCovCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax14000_lensedCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.2 * 0.054882) = 0.00302461 > 0.003
+value mismatch at 1, 5 ("TxE") of params_all_nonlinhigh_lensedCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_T_F_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.0030235 > 0.003
+value mismatch at 1, 3 ("TxE") of params_acclens_ketamax20000_scalCovCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054881) = 0.00302477 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax10000_lenspotentialCls.dat: 3.3817 != 3.4055
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_T_T_F_lensedCls.dat: 3.4563 != 3.42336
+num rows do not match in params_ppf_w-0.998_wa-0.3_matterpower.dat: 556 != 572
+num rows do not match in params_ppf_w-0.7_wa-0.3_matterpower.dat: 556 != 572
+diffnsqrt: |3.4055 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302474 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclens_ketamax10000_lensedCls.dat: 3.3817 != 3.4055
+num rows do not match in params_ppf_w-1.2_wa-0.01_matterpower.dat: 556 != 572
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_T_T_lenspotentialCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42342 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00416406 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_lmax2_lenspotentialCls.dat: 3.4563 != 3.42342
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_T_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302347 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax20000_lensedCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_F_T_T_lenspotentialCls.dat: 3.4563 != 3.42336
+num rows do not match in params_nonlin_lmax3000_matterpower.dat: 556 != 572
+diffnsqrt: |3.40549 - 3.3817|/sqrt(1128.1 * 0.054882) = 0.00302347 > 0.003
+value mismatch at 1, 5 ("TxE") of params_acclensBB_ketamax14000_lensedCls.dat: 3.3817 != 3.40549
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_F_T_T_F_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054911) = 0.00417158 > 0.003
+value mismatch at 1, 5 ("TxE") of params_counts_opts_T_F_T_T_lensedCls.dat: 3.4563 != 3.42336
+diffnsqrt: |3.42336 - 3.4563|/sqrt(1135.5 * 0.054909) = 0.00417165 > 0.003
+value mismatch at 1, 3 ("TxE") of params_counts_opts_T_T_F_T_scalCovCls.dat: 3.4563 != 3.42336
+Files do not match:
+  params_acclens_ketamax40000_lensedCls.dat
+  params_acclens_ketamax20000_lenspotentialCls.dat
+  params_counts_opts_T_F_F_T_lenspotentialCls.dat
+  params_acclens_ketamax40000_lenspotentialCls.dat
+  params_ppf_w-0.998_wa-0.3_transfer_out.dat
+  params_counts_opts_T_T_F_T_lensedCls.dat
+  params_counts_opts_F_F_F_T_lensedCls.dat
+  params_counts_opts_T_T_T_F_scalCovCls.dat
+  params_acclensBB_ketamax14000_lenspotentialCls.dat
+  params_delta_xe_matterpower.dat
+  params_counts_opts_F_T_F_F_scalCovCls.dat
+  params_counts_opts_F_T_T_F_scalCovCls.dat
+  params_ppf_w-1.2_wa-0.01_transfer_out.dat
+  params_acclensBB_ketamax20000_lenspotentialCls.dat
+  params_nonlin_lmax2500_matterpower.dat
+  params_nonlin_lmax2000_transfer_out.dat
+  params_nonlin_lmax3000_scalCovCls.dat
+  params_acclensBB_ketamax10000_scalCovCls.dat
+  params_counts_opts_T_T_F_F_lensedCls.dat
+  params_acclens_ketamax14000_lenspotentialCls.dat
+  params_acclens_ketamax14000_scalCovCls.dat
+  params_counts_opts_F_F_F_T_scalCovCls.dat
+  params_nonlin_lmax4500_matterpower.dat
+  params_ppf_w-1.2_wa-0.3_matterpower.dat
+  params_ppf_w-0.7_wa-0.3_transfer_out.dat
+  params_ppf_w-0.998_wa-0.01_matterpower.dat
+  params_delta_xe_lensedCls.dat
+  params_ppf_w-0.7_wa-0.01_transfer_out.dat
+  params_nonlin_lmax2000_matterpower.dat
+  params_counts_opts_F_T_F_T_lenspotentialCls.dat
+  params_acclens_ketamax10000_scalCovCls.dat
+  params_counts_opts_T_F_F_F_scalCovCls.dat
+  params_acclens_ketamax20000_lensedCls.dat
+  params_nonlin_lmax3000_lensedCls.dat
+  params_ppf_w-0.998_wa-0.01_scalCovCls.dat
+  params_delta_xe_scalCovCls.dat
+  params_nonlin_lmax2500_scalCovCls.dat
+  params_counts_lmax2_lensedCls.dat
+  params_nonlin_lmax4500_lenspotentialCls.dat
+  params_nonlin_lmax2000_lenspotentialCls.dat
+  params_delta_xe_lenspotentialCls.dat
+  params_counts_opts_F_T_F_F_lenspotentialCls.dat
+  params_counts_opts_T_T_T_T_lensedCls.dat
+  params_counts_opts_T_T_F_F_scalCovCls.dat
+  params_counts_opts_T_F_F_T_lensedCls.dat
+  params_acclensBB_ketamax40000_lenspotentialCls.dat
+  params_acclensBB_ketamax40000_lensedCls.dat
+  params_all_nonlin2_lensedCls.dat
+  params_ppf_w-0.7_wa0.5_transfer_out.dat
+  params_counts_opts_F_T_F_T_lensedCls.dat
+  params_counts_opts_F_T_F_F_lensedCls.dat
+  params_delta_xe_transfer_out.dat
+  params_all_nonlin2_transfer_out.dat
+  params_acclens_ketamax10000_lenspotentialCls.dat
+  params_ppf_w-0.998_wa-0.01_lenspotentialCls.dat
+  params_acclens_ketamax40000_scalCovCls.dat
+  params_nonlin_lmax4500_transfer_out.dat
+  params_nonlin_lmax2000_scalCovCls.dat
+  params_counts_opts_F_T_T_T_scalCovCls.dat
+  params_all_nonlinhigh_matterpower.dat
+  params_counts_overlap_scalCovCls.dat
+  params_nonlin_lmax2500_lenspotentialCls.dat
+  params_counts_opts_T_F_T_T_scalCovCls.dat
+  params_counts_opts_T_T_T_T_scalCovCls.dat
+  params_counts_overlap_lensedCls.dat
+  params_all_nonlin2_scalCovCls.dat
+  params_counts_opts_T_F_F_F_lensedCls.dat
+  params_counts_opts_T_T_F_T_lenspotentialCls.dat
+  params_nonlin_lmax1000_lensedCls.dat
+  params_counts_overlap_lenspotentialCls.dat
+  params_counts_opts_F_T_T_T_lensedCls.dat
+  params_all_nonlin2_matterpower.dat
+  params_counts_opts_F_F_F_F_lensedCls.dat
+  params_counts_opts_T_F_T_F_scalCovCls.dat
+  params_nonlin_lmax1000_scalCovCls.dat
+  params_counts_opts_F_F_F_F_scalCovCls.dat
+  params_counts_opts_T_F_F_F_lenspotentialCls.dat
+  params_nonlin_lmax2500_lensedCls.dat
+  params_all_nonlinhigh_transfer_out.dat
+  params_ppf_w-1.2_wa0.5_transfer_out.dat
+  params_counts_opts_F_F_T_F_scalCovCls.dat
+  params_nonlin_lmax1000_lenspotentialCls.dat
+  params_counts_opts_F_F_F_T_lenspotentialCls.dat
+  params_nonlin_lmax4500_lensedCls.dat
+  params_nonlin_lmax2500_transfer_out.dat
+  params_counts_opts_F_T_F_T_scalCovCls.dat
+  params_ppf_w-0.998_wa0.5_matterpower.dat
+  params_nonlin_lmax4500_scalCovCls.dat
+  params_counts_lmax2_scalCovCls.dat
+  params_ppf_w-0.998_wa-0.01_transfer_out.dat
+  params_counts_opts_F_F_T_F_lenspotentialCls.dat
+  params_counts_opts_T_F_F_T_scalCovCls.dat
+  params_counts_opts_F_F_T_T_scalCovCls.dat
+  params_ppf_w-0.7_wa-0.01_matterpower.dat
+  params_counts_opts_F_T_T_F_lenspotentialCls.dat
+  params_counts_opts_T_T_T_T_lenspotentialCls.dat
+  params_nonlin_lmax2000_lensedCls.dat
+  params_ppf_w-0.998_wa0.5_transfer_out.dat
+  params_counts_opts_T_T_F_F_lenspotentialCls.dat
+  params_nonlin_lmax3000_lenspotentialCls.dat
+  params_counts_opts_T_F_T_F_lensedCls.dat
+  params_nonlin_lmax1000_matterpower.dat
+  params_ppf_w-1.2_wa-0.3_transfer_out.dat
+  params_ppf_w-1.2_wa0.5_matterpower.dat
+  params_acclensBB_ketamax40000_scalCovCls.dat
+  params_counts_opts_T_T_T_F_lenspotentialCls.dat
+  params_counts_opts_F_F_F_F_lenspotentialCls.dat
+  params_all_nonlinhigh_scalCovCls.dat
+  params_acclensBB_ketamax10000_lensedCls.dat
+  params_counts_opts_F_F_T_F_lensedCls.dat
+  params_ppf_w-0.998_wa-0.01_lensedCls.dat
+  params_nonlin_lmax3000_transfer_out.dat
+  params_counts_opts_F_T_T_T_lenspotentialCls.dat
+  params_acclensBB_ketamax20000_scalCovCls.dat
+  params_ppf_w-0.7_wa0.5_matterpower.dat
+  params_nonlin_lmax1000_transfer_out.dat
+  params_acclensBB_ketamax14000_scalCovCls.dat
+  params_acclens_ketamax14000_lensedCls.dat
+  params_all_nonlinhigh_lensedCls.dat
+  params_counts_opts_T_F_T_F_lenspotentialCls.dat
+  params_acclens_ketamax20000_scalCovCls.dat
+  params_acclensBB_ketamax10000_lenspotentialCls.dat
+  params_counts_opts_T_T_T_F_lensedCls.dat
+  params_ppf_w-0.998_wa-0.3_matterpower.dat
+  params_ppf_w-0.7_wa-0.3_matterpower.dat
+  params_acclens_ketamax10000_lensedCls.dat
+  params_ppf_w-1.2_wa-0.01_matterpower.dat
+  params_counts_opts_T_F_T_T_lenspotentialCls.dat
+  params_counts_lmax2_lenspotentialCls.dat
+  params_counts_opts_F_F_T_T_lensedCls.dat
+  params_acclensBB_ketamax20000_lensedCls.dat
+  params_counts_opts_F_F_T_T_lenspotentialCls.dat
+  params_nonlin_lmax3000_matterpower.dat
+  params_acclensBB_ketamax14000_lensedCls.dat
+  params_counts_opts_F_T_T_F_lensedCls.dat
+  params_counts_opts_T_F_T_T_lensedCls.dat
+  params_counts_opts_T_T_F_T_scalCovCls.dat
+Done with 137 numerical accuracy mismatches and 0 extra/missing files
