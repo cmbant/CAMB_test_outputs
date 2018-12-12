@@ -1,0 +1,474 @@
+Making test ini files...
+Made test ini files.
+params_base.ini...
+..OK, produced 4 files in 4.56s
+params_lmax1000.ini...
+..OK, produced 4 files in 3.18s
+params_lmax2000.ini...
+..OK, produced 4 files in 4.44s
+params_lmax2500.ini...
+..OK, produced 4 files in 4.96s
+params_lmax3000.ini...
+..OK, produced 4 files in 5.07s
+params_lmax4500.ini...
+..OK, produced 4 files in 5.73s
+params_lmax6000.ini...
+..OK, produced 4 files in 7.30s
+params_nonlin_lmax1000.ini...
+..OK, produced 6 files in 3.84s
+params_nonlin_lmax2000.ini...
+..OK, produced 6 files in 4.90s
+params_nonlin_lmax2500.ini...
+..OK, produced 6 files in 5.33s
+params_nonlin_lmax3000.ini...
+..OK, produced 6 files in 5.40s
+params_nonlin_lmax4500.ini...
+..OK, produced 6 files in 5.99s
+params_tensor_lmax400.ini...
+..OK, produced 7 files in 5.90s
+params_tensor_lmax600.ini...
+..OK, produced 7 files in 5.95s
+params_tensor_lmax1000.ini...
+..OK, produced 7 files in 6.22s
+params_tensoronly.ini...
+..OK, produced 1 files in 1.99s
+params_tensor_tranfer.ini...
+..OK, produced 3 files in 6.01s
+params_tranfer_only.ini...
+..OK, produced 2 files in 2.46s
+params_tranfer_highprec.ini...
+..OK, produced 2 files in 4.08s
+params_all.ini...
+..OK, produced 9 files in 6.70s
+params_all_nonlin1.ini...
+..OK, produced 9 files in 6.69s
+params_all_nonlin2.ini...
+..OK, produced 9 files in 6.93s
+params_all_nonlinhigh.ini...
+..OK, produced 9 files in 7.79s
+params_tranfer_delta10.ini...
+..OK, produced 2 files in 2.94s
+params_tranfer_redshifts.ini...
+..OK, produced 4 files in 2.12s
+params_tranfer_redshifts2.ini...
+..OK, produced 4 files in 2.52s
+params_tranfer_nonu.ini...
+..OK, produced 2 files in 2.53s
+params_HMcode.ini...
+..OK, produced 6 files in 8.45s
+params_halomodel.ini...
+..OK, produced 6 files in 8.39s
+params_zre.ini...
+..OK, produced 4 files in 4.63s
+params_nolens.ini...
+..OK, produced 4 files in 4.66s
+params_noderived.ini...
+..OK, produced 4 files in 4.66s
+params_no_rad_trunc.ini...
+..OK, produced 4 files in 5.11s
+params_accuracy_boost1.1.ini...
+..OK, produced 4 files in 5.59s
+params_accuracy_boost1.5.ini...
+..OK, produced 4 files in 8.14s
+params_accuracy_boost2.2.ini...
+..OK, produced 4 files in 14.47s
+params_l_accuracy_boost1.ini...
+..OK, produced 4 files in 4.66s
+params_l_accuracy_boost1.5.ini...
+..OK, produced 4 files in 4.85s
+params_l_accuracy_boost2.ini...
+..OK, produced 4 files in 5.09s
+params_acc.ini...
+..OK, produced 4 files in 13.59s
+params_accsamp.ini...
+..OK, produced 4 files in 14.44s
+params_mu_massless.ini...
+..OK, produced 4 files in 2.43s
+params_mu_mass0.ini...
+..OK, produced 4 files in 2.35s
+params_mu_mass0.01.ini...
+..OK, produced 4 files in 4.86s
+params_mu_mass0.03.ini...
+..OK, produced 4 files in 4.66s
+params_mu_mass0.1.ini...
+..OK, produced 4 files in 4.59s
+params_mu_masssplit.ini...
+..OK, produced 4 files in 4.68s
+params_acclens_ketamax10000.ini...
+..OK, produced 4 files in 7.15s
+params_acclens_ketamax14000.ini...
+..OK, produced 4 files in 7.58s
+params_acclens_ketamax20000.ini...
+..OK, produced 4 files in 7.95s
+params_acclens_ketamax40000.ini...
+..OK, produced 4 files in 8.94s
+params_acclensBB_ketamax10000.ini...
+..OK, produced 4 files in 6.67s
+params_acclensBB_ketamax14000.ini...
+..OK, produced 4 files in 6.86s
+params_acclensBB_ketamax20000.ini...
+..OK, produced 4 files in 7.06s
+params_acclensBB_ketamax40000.ini...
+..OK, produced 4 files in 7.69s
+params_ombh2_0.022.ini...
+..OK, produced 6 files in 5.48s
+params_ombh2_0.023.ini...
+..OK, produced 6 files in 5.46s
+params_ombh2_0.025.ini...
+..OK, produced 6 files in 5.49s
+params_omch2_0.100.ini...
+..OK, produced 6 files in 5.42s
+params_omch2_0.080.ini...
+..OK, produced 6 files in 5.72s
+params_omch2_0.150.ini...
+..OK, produced 6 files in 5.09s
+params_omk_0.000.ini...
+..OK, produced 6 files in 5.38s
+params_omk_-0.030.ini...
+..OK, produced 6 files in 29.92s
+params_omk_0.040.ini...
+..OK, produced 6 files in 30.19s
+params_omk_0.001.ini...
+..OK, produced 6 files in 30.94s
+params_omk_-0.001.ini...
+..OK, produced 6 files in 23.80s
+params_hubble_62.000.ini...
+..OK, produced 6 files in 5.38s
+params_hubble_67.000.ini...
+..OK, produced 6 files in 5.45s
+params_hubble_71.000.ini...
+..OK, produced 6 files in 5.47s
+params_hubble_78.000.ini...
+..OK, produced 6 files in 5.55s
+params_w_-1.200.ini...
+..OK, produced 6 files in 6.88s
+params_w_-1.000.ini...
+..OK, produced 6 files in 5.41s
+params_w_-0.980.ini...
+..OK, produced 6 files in 6.85s
+params_w_-0.750.ini...
+..OK, produced 6 files in 6.59s
+params_helium_fraction_0.210.ini...
+..OK, produced 6 files in 5.39s
+params_helium_fraction_0.230.ini...
+..OK, produced 6 files in 5.35s
+params_helium_fraction_0.270.ini...
+..OK, produced 6 files in 5.42s
+params_scalar_spectral_index(1)_0.940.ini...
+..OK, produced 6 files in 5.35s
+params_scalar_spectral_index(1)_0.980.ini...
+..OK, produced 6 files in 5.41s
+params_scalar_nrun(1)_-0.015.ini...
+..OK, produced 6 files in 5.60s
+params_scalar_nrun(1)_0.000.ini...
+..OK, produced 6 files in 5.55s
+params_scalar_nrun(1)_0.030.ini...
+..OK, produced 6 files in 5.39s
+params_re_optical_depth_0.030.ini...
+..OK, produced 6 files in 5.36s
+params_re_optical_depth_0.050.ini...
+..OK, produced 6 files in 5.41s
+params_re_optical_depth_0.080.ini...
+..OK, produced 6 files in 5.35s
+params_re_optical_depth_0.110.ini...
+..OK, produced 6 files in 5.47s
+params_ppf_w-1.2_wa-0.3.ini...
+..OK, produced 6 files in 7.04s
+params_ppf_w-0.998_wa-0.3.ini...
+..OK, produced 6 files in 7.03s
+params_ppf_w-0.7_wa-0.3.ini...
+..OK, produced 6 files in 6.70s
+params_ppf_w-1.2_wa-0.01.ini...
+..OK, produced 6 files in 7.03s
+params_ppf_w-0.998_wa-0.01.ini...
+..OK, produced 6 files in 6.98s
+params_ppf_w-0.7_wa-0.01.ini...
+..OK, produced 6 files in 6.69s
+params_ppf_w-1.2_wa0.5.ini...
+..OK, produced 6 files in 6.96s
+params_ppf_w-0.998_wa0.5.ini...
+..OK, produced 6 files in 7.00s
+params_ppf_w-0.7_wa0.5.ini...
+..OK, produced 6 files in 6.88s
+params_ppf_w-1.000_wa0.000.ini...
+..OK, produced 6 files in 5.40s
+params_delta_xe.ini...
+..OK, produced 6 files in 11.01s
+params_counts_opts_T_T_T_T.ini...
+..OK, produced 4 files in 18.02s
+params_counts_opts_T_T_T_F.ini...
+..OK, produced 4 files in 11.05s
+params_counts_opts_T_T_F_T.ini...
+..OK, produced 4 files in 17.43s
+params_counts_opts_T_T_F_F.ini...
+..OK, produced 4 files in 11.07s
+params_counts_opts_T_F_T_T.ini...
+..OK, produced 4 files in 15.89s
+params_counts_opts_T_F_T_F.ini...
+..OK, produced 4 files in 9.77s
+params_counts_opts_T_F_F_T.ini...
+..OK, produced 4 files in 15.96s
+params_counts_opts_T_F_F_F.ini...
+..OK, produced 4 files in 9.68s
+params_counts_opts_F_T_T_T.ini...
+..OK, produced 4 files in 17.27s
+params_counts_opts_F_T_T_F.ini...
+..OK, produced 4 files in 11.74s
+params_counts_opts_F_T_F_T.ini...
+..OK, produced 4 files in 17.37s
+params_counts_opts_F_T_F_F.ini...
+..OK, produced 4 files in 11.20s
+params_counts_opts_F_F_T_T.ini...
+..OK, produced 4 files in 16.10s
+params_counts_opts_F_F_T_F.ini...
+..OK, produced 4 files in 9.71s
+params_counts_opts_F_F_F_T.ini...
+..OK, produced 4 files in 16.20s
+params_counts_opts_F_F_F_F.ini...
+..OK, produced 4 files in 9.79s
+params_counts_1bin.ini...
+..OK, produced 4 files in 11.72s
+params_counts_lmax1.ini...
+..OK, produced 4 files in 9.27s
+params_counts_lmax2.ini...
+..OK, produced 4 files in 12.63s
+params_counts_overlap.ini...
+..OK, produced 4 files in 12.67s
+params_lensing_base.ini...
+..OK, produced 4 files in 77.97s
+params_21cm_base.ini...
+..OK, produced 4 files in 59.39s
+params_21cm_base2.ini...
+..OK, produced 7 files in 79.75s
+params_counts_lens.ini...
+..OK, produced 4 files in 14.81s
+Done, 0 errors in 1162.54s (outputs not checked yet)
+Running diff_to...
+Missing/Extra files:
+  params_omch2_0.150_scalarCovCls.dat
+  params_ppf_w-1.000_wa0.000_scalarCovCls.dat
+  params_21cm_base_scalarCovCls.dat
+  params_counts_opts_F_T_F_F_scalarCovCls.dat
+  params_lmax3000_scalarCovCls.dat
+  params_acc_scalCovCls.dat
+  params_HMcode_scalarCovCls.dat
+  params_acclens_ketamax14000_scalCovCls.dat
+  params_acclensBB_ketamax40000_scalarCovCls.dat
+  params_counts_opts_T_F_F_F_scalCovCls.dat
+  params_omk_0.000_scalarCovCls.dat
+  params_accuracy_boost1.1_scalCovCls.dat
+  params_w_-1.200_scalCovCls.dat
+  params_scalar_spectral_index(1)_0.980_scalarCovCls.dat
+  params_w_-0.750_scalCovCls.dat
+  params_omch2_0.150_scalCovCls.dat
+  params_counts_opts_T_F_F_F_scalarCovCls.dat
+  params_ppf_w-0.7_wa-0.01_scalCovCls.dat
+  params_l_accuracy_boost1_scalCovCls.dat
+  params_counts_opts_T_T_F_F_scalCovCls.dat
+  params_counts_opts_F_F_F_T_scalCovCls.dat
+  params_accuracy_boost2.2_scalarCovCls.dat
+  params_helium_fraction_0.270_scalarCovCls.dat
+  params_counts_opts_T_T_F_T_scalCovCls.dat
+  params_scalar_nrun(1)_0.000_scalarCovCls.dat
+  params_lmax1000_scalarCovCls.dat
+  params_hubble_78.000_scalarCovCls.dat
+  params_acclensBB_ketamax14000_scalCovCls.dat
+  params_nonlin_lmax3000_scalCovCls.dat
+  params_mu_mass0.03_scalCovCls.dat
+  params_helium_fraction_0.270_scalCovCls.dat
+  params_all_nonlinhigh_scalarCovCls.dat
+  params_noderived_scalCovCls.dat
+  params_acclens_ketamax40000_scalarCovCls.dat
+  params_counts_1bin_scalCovCls.dat
+  params_nonlin_lmax1000_scalCovCls.dat
+  params_counts_opts_T_T_T_T_scalarCovCls.dat
+  params_lensing_base_scalCovCls.dat
+  params_l_accuracy_boost1_scalarCovCls.dat
+  params_scalar_nrun(1)_-0.015_scalarCovCls.dat
+  params_ombh2_0.022_scalarCovCls.dat
+  params_counts_opts_T_T_T_T_scalCovCls.dat
+  params_ppf_w-0.998_wa0.5_scalarCovCls.dat
+  params_omk_-0.001_scalCovCls.dat
+  params_halomodel_scalCovCls.dat
+  params_hubble_71.000_scalarCovCls.dat
+  params_counts_opts_T_T_F_F_scalarCovCls.dat
+  params_acclens_ketamax10000_scalCovCls.dat
+  params_zre_scalCovCls.dat
+  params_all_nonlin1_scalarCovCls.dat
+  params_scalar_nrun(1)_0.030_scalCovCls.dat
+  params_hubble_67.000_scalCovCls.dat
+  params_all_nonlin2_scalarCovCls.dat
+  params_counts_lmax1_scalCovCls.dat
+  params_nonlin_lmax2500_scalCovCls.dat
+  params_re_optical_depth_0.080_scalarCovCls.dat
+  params_lmax4500_scalCovCls.dat
+  params_acclensBB_ketamax14000_scalarCovCls.dat
+  params_counts_opts_F_T_F_T_scalCovCls.dat
+  params_ppf_w-0.7_wa-0.01_scalarCovCls.dat
+  params_acclensBB_ketamax20000_scalCovCls.dat
+  params_acclens_ketamax14000_scalarCovCls.dat
+  params_omk_0.000_scalCovCls.dat
+  params_helium_fraction_0.210_scalarCovCls.dat
+  params_w_-1.000_scalCovCls.dat
+  params_w_-1.200_scalarCovCls.dat
+  params_scalar_nrun(1)_0.000_scalCovCls.dat
+  params_w_-0.980_scalCovCls.dat
+  params_ppf_w-0.7_wa0.5_scalCovCls.dat
+  params_re_optical_depth_0.030_scalarCovCls.dat
+  params_accuracy_boost1.5_scalCovCls.dat
+  params_mu_mass0_scalCovCls.dat
+  params_mu_massless_scalarCovCls.dat
+  params_all_nonlin2_scalCovCls.dat
+  params_counts_overlap_scalCovCls.dat
+  params_accsamp_scalCovCls.dat
+  params_ppf_w-1.2_wa0.5_scalCovCls.dat
+  params_counts_lens_scalarCovCls.dat
+  params_nonlin_lmax4500_scalarCovCls.dat
+  params_ppf_w-0.7_wa0.5_scalarCovCls.dat
+  params_scalar_nrun(1)_0.030_scalarCovCls.dat
+  params_omk_0.040_scalarCovCls.dat
+  params_w_-0.980_scalarCovCls.dat
+  params_l_accuracy_boost2_scalCovCls.dat
+  params_scalar_spectral_index(1)_0.980_scalCovCls.dat
+  params_hubble_78.000_scalCovCls.dat
+  params_helium_fraction_0.230_scalarCovCls.dat
+  params_counts_opts_T_T_T_F_scalarCovCls.dat
+  params_l_accuracy_boost1.5_scalCovCls.dat
+  params_l_accuracy_boost1.5_scalarCovCls.dat
+  params_counts_opts_F_F_F_F_scalarCovCls.dat
+  params_mu_mass0.01_scalarCovCls.dat
+  params_counts_opts_F_T_F_F_scalCovCls.dat
+  params_counts_lmax1_scalarCovCls.dat
+  params_w_-0.750_scalarCovCls.dat
+  params_counts_opts_F_T_T_F_scalCovCls.dat
+  params_counts_opts_F_F_T_F_scalCovCls.dat
+  params_ombh2_0.023_scalCovCls.dat
+  params_tensor_lmax600_scalarCovCls.dat
+  params_counts_opts_F_F_F_F_scalCovCls.dat
+  params_accsamp_scalarCovCls.dat
+  params_counts_lmax2_scalCovCls.dat
+  params_21cm_base_scalCovCls.dat
+  params_mu_mass0.1_scalarCovCls.dat
+  params_ppf_w-0.998_wa-0.3_scalarCovCls.dat
+  params_acclensBB_ketamax40000_scalCovCls.dat
+  params_acclensBB_ketamax20000_scalarCovCls.dat
+  params_no_rad_trunc_scalarCovCls.dat
+  params_lensing_base_scalarCovCls.dat
+  params_halomodel_scalarCovCls.dat
+  params_ppf_w-0.7_wa-0.3_scalarCovCls.dat
+  params_lmax1000_scalCovCls.dat
+  params_counts_opts_F_F_F_T_scalarCovCls.dat
+  params_HMcode_scalCovCls.dat
+  params_counts_opts_F_T_T_F_scalarCovCls.dat
+  params_lmax2500_scalCovCls.dat
+  params_nolens_scalCovCls.dat
+  params_tensor_lmax400_scalarCovCls.dat
+  params_re_optical_depth_0.110_scalCovCls.dat
+  params_counts_opts_F_T_T_T_scalCovCls.dat
+  params_counts_lmax2_scalarCovCls.dat
+  params_ppf_w-0.998_wa-0.3_scalCovCls.dat
+  params_noderived_scalarCovCls.dat
+  params_all_nonlinhigh_scalCovCls.dat
+  params_tensor_lmax600_scalCovCls.dat
+  params_counts_opts_F_T_T_T_scalarCovCls.dat
+  params_acclens_ketamax20000_scalCovCls.dat
+  params_counts_opts_T_F_F_T_scalarCovCls.dat
+  params_ppf_w-1.2_wa0.5_scalarCovCls.dat
+  params_acclens_ketamax10000_scalarCovCls.dat
+  params_base_scalCovCls.dat
+  params_no_rad_trunc_scalCovCls.dat
+  params_zre_scalarCovCls.dat
+  params_accuracy_boost2.2_scalCovCls.dat
+  params_counts_opts_F_T_F_T_scalarCovCls.dat
+  params_counts_opts_F_F_T_T_scalarCovCls.dat
+  params_scalar_spectral_index(1)_0.940_scalarCovCls.dat
+  params_mu_mass0.01_scalCovCls.dat
+  params_re_optical_depth_0.080_scalCovCls.dat
+  params_omk_-0.030_scalCovCls.dat
+  params_acc_scalarCovCls.dat
+  params_counts_opts_T_F_T_T_scalCovCls.dat
+  params_counts_overlap_scalarCovCls.dat
+  params_w_-1.000_scalarCovCls.dat
+  params_omk_-0.001_scalarCovCls.dat
+  params_acclensBB_ketamax10000_scalCovCls.dat
+  params_mu_mass0.1_scalCovCls.dat
+  params_nolens_scalarCovCls.dat
+  params_acclens_ketamax40000_scalCovCls.dat
+  params_hubble_62.000_scalarCovCls.dat
+  params_tensor_lmax400_scalCovCls.dat
+  params_ombh2_0.023_scalarCovCls.dat
+  params_ombh2_0.022_scalCovCls.dat
+  params_scalar_spectral_index(1)_0.940_scalCovCls.dat
+  params_ppf_w-1.000_wa0.000_scalCovCls.dat
+  params_all_scalarCovCls.dat
+  params_lmax6000_scalarCovCls.dat
+  params_delta_xe_scalCovCls.dat
+  params_counts_opts_F_F_T_F_scalarCovCls.dat
+  params_hubble_67.000_scalarCovCls.dat
+  params_counts_opts_T_F_F_T_scalCovCls.dat
+  params_21cm_base2_scalCovCls.dat
+  params_lmax2000_scalarCovCls.dat
+  params_lmax4500_scalarCovCls.dat
+  params_omch2_0.080_scalCovCls.dat
+  params_l_accuracy_boost2_scalarCovCls.dat
+  params_hubble_62.000_scalCovCls.dat
+  params_nonlin_lmax2000_scalCovCls.dat
+  params_ombh2_0.025_scalCovCls.dat
+  params_tensor_lmax1000_scalCovCls.dat
+  params_omch2_0.100_scalarCovCls.dat
+  params_lmax6000_scalCovCls.dat
+  params_counts_opts_F_F_T_T_scalCovCls.dat
+  params_ombh2_0.025_scalarCovCls.dat
+  params_acclensBB_ketamax10000_scalarCovCls.dat
+  params_ppf_w-1.2_wa-0.01_scalarCovCls.dat
+  params_counts_opts_T_T_T_F_scalCovCls.dat
+  params_scalar_nrun(1)_-0.015_scalCovCls.dat
+  params_re_optical_depth_0.030_scalCovCls.dat
+  params_counts_opts_T_T_F_T_scalarCovCls.dat
+  params_counts_opts_T_F_T_T_scalarCovCls.dat
+  params_all_scalCovCls.dat
+  params_all_nonlin1_scalCovCls.dat
+  params_lmax3000_scalCovCls.dat
+  params_omch2_0.100_scalCovCls.dat
+  params_21cm_base2_scalarCovCls.dat
+  params_hubble_71.000_scalCovCls.dat
+  params_mu_masssplit_scalarCovCls.dat
+  params_nonlin_lmax3000_scalarCovCls.dat
+  params_ppf_w-0.998_wa-0.01_scalCovCls.dat
+  params_ppf_w-0.998_wa0.5_scalCovCls.dat
+  params_base_scalarCovCls.dat
+  params_counts_1bin_scalarCovCls.dat
+  params_re_optical_depth_0.050_scalarCovCls.dat
+  params_omk_-0.030_scalarCovCls.dat
+  params_nonlin_lmax1000_scalarCovCls.dat
+  params_mu_mass0_scalarCovCls.dat
+  params_re_optical_depth_0.050_scalCovCls.dat
+  params_counts_opts_T_F_T_F_scalCovCls.dat
+  params_delta_xe_scalarCovCls.dat
+  params_counts_lens_scalCovCls.dat
+  params_mu_massless_scalCovCls.dat
+  params_mu_mass0.03_scalarCovCls.dat
+  params_mu_masssplit_scalCovCls.dat
+  params_tensor_lmax1000_scalarCovCls.dat
+  params_helium_fraction_0.230_scalCovCls.dat
+  params_ppf_w-0.998_wa-0.01_scalarCovCls.dat
+  params_lmax2000_scalCovCls.dat
+  params_omk_0.001_scalCovCls.dat
+  params_ppf_w-1.2_wa-0.01_scalCovCls.dat
+  params_lmax2500_scalarCovCls.dat
+  params_ppf_w-0.7_wa-0.3_scalCovCls.dat
+  params_re_optical_depth_0.110_scalarCovCls.dat
+  params_omk_0.001_scalarCovCls.dat
+  params_omk_0.040_scalCovCls.dat
+  params_helium_fraction_0.210_scalCovCls.dat
+  params_accuracy_boost1.1_scalarCovCls.dat
+  params_nonlin_lmax2000_scalarCovCls.dat
+  params_counts_opts_T_F_T_F_scalarCovCls.dat
+  params_nonlin_lmax2500_scalarCovCls.dat
+  params_acclens_ketamax20000_scalarCovCls.dat
+  params_nonlin_lmax4500_scalCovCls.dat
+  params_accuracy_boost1.5_scalarCovCls.dat
+  params_ppf_w-1.2_wa-0.3_scalCovCls.dat
+  params_omch2_0.080_scalarCovCls.dat
+  params_ppf_w-1.2_wa-0.3_scalarCovCls.dat
+Done with 0 numerical accuracy mismatches and 226 extra/missing files
